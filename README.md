@@ -10,4 +10,6 @@ This is a basic calculator program written in Python. It performs:
 - Multiplication ✖️  
 - Division ➗  
 
+---
 
+### ✨ Developed by [Abhijith S](https://github.com/123abhi-ui)
