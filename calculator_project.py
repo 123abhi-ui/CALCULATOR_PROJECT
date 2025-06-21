@@ -1,7 +1,5 @@
-#building a calculator
 
-```bash
-pyhton_calculator project
+#pyhton_calculator project
 
 num1=float(input('enter the first number:'))
 operator=input('enter the operator:')
