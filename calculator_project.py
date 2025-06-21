@@ -15,3 +15,9 @@ elif operator =="/":
     print(num1/num2)
 else:
     print(f'{operator} is invalid')
+
+
+# ----------------------------------------
+# Project: Simple Calculator
+# Developer: Abhijith S
+# ----------------------------------------
